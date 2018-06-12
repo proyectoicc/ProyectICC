@@ -1,0 +1,2 @@
+# ProyectICC
+print(Hello team!)
